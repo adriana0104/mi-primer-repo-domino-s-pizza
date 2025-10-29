@@ -1,1 +1,1 @@
-# mi-primer-repo-domino-s-pizza
+Nuetro proyecto es de domino`s pizza el cual incluye, sucursales, proveedores, productos, empleados y ventas, en las cueles tubimos que crear un codigo para que funcione cada uno, despues creaamos nuestros registros para al ejecutar cada codigo no los arrojara, y despues los juntamos en una base de datos
